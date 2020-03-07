@@ -7,6 +7,7 @@ router.route("/")
   .post(booksController.create);
 
 // Matches with "/api/books/:id"
+// Using this allows us to update and received users info
 router
   .route("/:id")
   .delete(booksController.remove);
