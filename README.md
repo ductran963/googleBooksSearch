@@ -15,3 +15,4 @@ In this project, I am building a react online application that allows users to s
 * Google Books API
 
 Link to github page: https://github.com/ductran963/googleBooksSearch
+Deployed Heroku Link: https://google-books-search--2020.herokuapp.com/
