@@ -6,7 +6,7 @@ As a avid online reader, I want to review and search for books of my interested 
 
 #### Purpose
 
-In this project, I am building a react online application that allows users to search for books, and link them to the website that have all the information on the book they are looking for. I am also required to use components, work iwith helper/util functions and utilize React lifecycle methods to query and display books based on user searches.
+In this project, I am building a react online application that allows users to search for books, and link them to the website that have all the information on the book they are looking for. I am also required to use components, work with helper/util functions and utilize React lifecycle methods to query and display books based on users' searches.
 
 #### Tools Used
 * Node
